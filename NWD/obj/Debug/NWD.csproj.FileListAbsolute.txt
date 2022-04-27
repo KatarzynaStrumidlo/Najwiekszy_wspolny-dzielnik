@@ -1,0 +1,8 @@
+C:\Users\strum\Desktop\C#\NWD\NWD\bin\Debug\NWD.exe.config
+C:\Users\strum\Desktop\C#\NWD\NWD\bin\Debug\NWD.exe
+C:\Users\strum\Desktop\C#\NWD\NWD\bin\Debug\NWD.pdb
+C:\Users\strum\Desktop\C#\NWD\NWD\obj\Debug\NWD.csproj.AssemblyReference.cache
+C:\Users\strum\Desktop\C#\NWD\NWD\obj\Debug\NWD.csproj.SuggestedBindingRedirects.cache
+C:\Users\strum\Desktop\C#\NWD\NWD\obj\Debug\NWD.csproj.CoreCompileInputs.cache
+C:\Users\strum\Desktop\C#\NWD\NWD\obj\Debug\NWD.exe
+C:\Users\strum\Desktop\C#\NWD\NWD\obj\Debug\NWD.pdb
